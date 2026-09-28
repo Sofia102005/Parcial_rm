@@ -23,9 +23,9 @@ public class TutorialManager : MonoBehaviour
     [SerializeField]
     private string[] steps =
     {
-        "¡Bienvenido a la cocina!\nEl punto que ves es tu puntero: se mueve hacia donde mires.",
+        "¡Bienvenido a la cocina!\nEl tu puntero: se mueve hacia donde mires y se activa cuando detecta cosas.",
         "Mira un círculo en el suelo y mantén la mirada hasta llenar la barra:\nasí te teletransportas hacia el estante.",
-        "Ahora mira la gaseosa y mantén la mirada para tomarla.",
+        "Ahora mira la gaseosa en la mesa y mantén la mirada para tomarla.",
         "Llevas la gaseosa en la mano.\nllevalo al meson.",
         "Mira el vaso y mantén la mirada para servir la gaseosa.",
         "¡Perfecto! Preparaste tu primera bebida.\nAhora comienza el juego de verdad..."
